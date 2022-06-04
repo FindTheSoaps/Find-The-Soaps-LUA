@@ -1,0 +1,6 @@
+print("Started LUA")
+print("Loadig.")
+print("Loading..")
+print("Loading...")
+print("Finished Loading")
+print(Unknown Error Could Not Find Scripts Below!)
